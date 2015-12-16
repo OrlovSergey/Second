@@ -1,3 +1,0 @@
-print("Text Second One")
-print ("Echo Next")
-print ("Echo 3")
