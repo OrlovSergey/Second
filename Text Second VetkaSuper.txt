@@ -1,0 +1,5 @@
+print("Text Second One")
+print ("Echo Next")
+print ("Echo 3")
+Dobavim text
+Text Text Text
